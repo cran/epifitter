@@ -1,3 +1,7 @@
+[![CRAN](https://www.r-pkg.org/badges/version/epifitter)](https://CRAN.R-project.org/package=epifitter)
+[![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/epifitter)](https://CRAN.R-project.org/package=epifitter)
+
+
 # *epifitter* <img width = 200px style = "margin-left: 40px; margin-top: 50px" align = right src="man/figures/logo.png" />
 
 ## Introduction
@@ -23,7 +27,13 @@ Current implementation includes functions for:
 
 ## How to install
 
-Currently, only the development version of **epifitter** is available from GitHub. The  **devtools** package, available from CRAN, is required for installation.   
+Install the stable release from CRAN.
+
+``` r
+install.packages("epifitter")
+```
+
+The development version of **epifitter** is available from GitHub. The  **devtools** package, available from CRAN, is required for installation.   
 
 
 ``` r
