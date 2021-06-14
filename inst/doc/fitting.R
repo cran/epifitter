@@ -56,8 +56,6 @@ plot_lin <- plot_fit(f_lin,
   line_size = 1
 ) 
 
-
-
 # Default plots
 plot_lin 
 
